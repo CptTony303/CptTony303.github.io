@@ -4,6 +4,7 @@ html{
 }
 main{
 	display: flex;
+	flex-flow: column nowrap;
 	justify-content: center;
 	align-items: center;
 }
@@ -14,22 +15,22 @@ main{
 .white {
 	position: relative;
     background:white;
-    width: 14%;
+    width:var(--whiteWidth);
     left: 0%;
     height: 100%;
 	z-index: 1;
-    margin: 0 2px;
+	margin: 0 1px;
 }
 .white.active{
 	background-color: lightgray;
 }
 .black{
-	position: absolute;
+	position: relative;
     background:black;
 	color: white;
-    width: 50%;
-	left: -25%;
-	top: 0%;
+    width: calc(var(--whiteWidth)/2);
+	margin-left: calc(var(--whiteWidth)/-4);
+	margin-right: calc(var(--whiteWidth)/-4);
     height: 60%;
 	z-index: 2;
 }
@@ -41,9 +42,13 @@ header{
 	text-align: center;
 }
 .piano{
+	--whiteKeys: 14;
+	--first:39;
+	--whiteWidth: calc(100%/var(--whiteKeys));
 	position: relative;
 	width: 75%;
 	display: flex;
 	aspect-ratio: 18/7;
+	height: auto;
     flex-flow: row nowrap;
 }

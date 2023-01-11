@@ -1,10 +1,40 @@
 const WHITE=['s','d','f','g','h','j','k'];
 const BLACK=['e','r','z','u','i'];
+let sounds = document.getElementById('gamedrix974');
 let keys=document.querySelectorAll('.key');
 let blackKeys=document.querySelectorAll('.key.black');
 let whiteKeys=document.querySelectorAll('.key.white');
 let piano = document.getElementById('piano');
 
+// add key soundfiles to html
+for(let i=1;i<=88;i++){
+    let file = document.createElement('audio');
+    file.id = i;
+    file.src= "music/gamedrix974/"+i+".wav";
+    sounds.appendChild(file);
+}
+// add keys
+var style = window.getComputedStyle(piano);
+var amnt_white =  style.getPropertyValue('--whiteKeys');
+var key_nr = style.getPropertyValue('--first');
+var shift = 9;
+//style.setPropertyValue('--whiteKeys', '14');
+for(let i = 0; i < amnt_white; i++){
+    let white = document.createElement('div');
+    white.className = 'key white';
+    white.dataset.note = key_nr;
+    piano.appendChild(white);
+    key_nr++;
+    if(((key_nr-1)+shift)%12!=4 && ((key_nr-1)+shift)%12!=11){
+        let black = document.createElement('div');
+        black.className = 'key black';
+        black.dataset.note = key_nr;
+        piano.appendChild(black);
+        key_nr++;
+    }
+}
+
+keys = document.querySelectorAll('.key');
 // eventlistener for mouse click
 keys.forEach(key =>{
     key.onclick = function(e){
@@ -29,5 +59,5 @@ function playKey(key){
     key.classList.add('active');
     audio.currentTime=0;
     audio.play();
-    audio.addEventListener('ended',()=>{key.classList.remove('active')});
+    window.setTimeout(()=>{key.classList.remove('active')}, 500);
 }

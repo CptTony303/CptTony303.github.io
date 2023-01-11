@@ -1,0 +1,286 @@
+Sound pack downloaded from Freesound
+----------------------------------------
+
+"Grand Piano 1"
+
+This pack of sounds contains sounds by the following user:
+ - GAMEDRIX974 ( https://freesound.org/people/GAMEDRIX974/ )
+
+You can find this pack online at: https://freesound.org/people/GAMEDRIX974/packs/32285/
+
+
+Licenses in this pack (see below for individual sound licenses)
+---------------------------------------------------------------
+
+Creative Commons 0: http://creativecommons.org/publicdomain/zero/1.0/
+
+
+Sounds in this pack
+-------------------
+
+  * 573522__gamedrix974__55.wav
+    * url: https://freesound.org/s/573522/
+    * license: Creative Commons 0
+  * 573521__gamedrix974__56.wav
+    * url: https://freesound.org/s/573521/
+    * license: Creative Commons 0
+  * 573520__gamedrix974__57.wav
+    * url: https://freesound.org/s/573520/
+    * license: Creative Commons 0
+  * 573519__gamedrix974__58.wav
+    * url: https://freesound.org/s/573519/
+    * license: Creative Commons 0
+  * 573518__gamedrix974__59.wav
+    * url: https://freesound.org/s/573518/
+    * license: Creative Commons 0
+  * 573517__gamedrix974__6.wav
+    * url: https://freesound.org/s/573517/
+    * license: Creative Commons 0
+  * 573516__gamedrix974__60.wav
+    * url: https://freesound.org/s/573516/
+    * license: Creative Commons 0
+  * 573515__gamedrix974__61.wav
+    * url: https://freesound.org/s/573515/
+    * license: Creative Commons 0
+  * 573514__gamedrix974__62.wav
+    * url: https://freesound.org/s/573514/
+    * license: Creative Commons 0
+  * 573513__gamedrix974__63.wav
+    * url: https://freesound.org/s/573513/
+    * license: Creative Commons 0
+  * 573512__gamedrix974__54.wav
+    * url: https://freesound.org/s/573512/
+    * license: Creative Commons 0
+  * 573511__gamedrix974__53.wav
+    * url: https://freesound.org/s/573511/
+    * license: Creative Commons 0
+  * 573510__gamedrix974__52.wav
+    * url: https://freesound.org/s/573510/
+    * license: Creative Commons 0
+  * 573509__gamedrix974__51.wav
+    * url: https://freesound.org/s/573509/
+    * license: Creative Commons 0
+  * 573508__gamedrix974__50.wav
+    * url: https://freesound.org/s/573508/
+    * license: Creative Commons 0
+  * 573507__gamedrix974__5.wav
+    * url: https://freesound.org/s/573507/
+    * license: Creative Commons 0
+  * 573506__gamedrix974__49.wav
+    * url: https://freesound.org/s/573506/
+    * license: Creative Commons 0
+  * 573505__gamedrix974__48.wav
+    * url: https://freesound.org/s/573505/
+    * license: Creative Commons 0
+  * 573504__gamedrix974__47.wav
+    * url: https://freesound.org/s/573504/
+    * license: Creative Commons 0
+  * 573503__gamedrix974__46.wav
+    * url: https://freesound.org/s/573503/
+    * license: Creative Commons 0
+  * 573502__gamedrix974__80.wav
+    * url: https://freesound.org/s/573502/
+    * license: Creative Commons 0
+  * 573501__gamedrix974__81.wav
+    * url: https://freesound.org/s/573501/
+    * license: Creative Commons 0
+  * 573500__gamedrix974__75.wav
+    * url: https://freesound.org/s/573500/
+    * license: Creative Commons 0
+  * 573499__gamedrix974__76.wav
+    * url: https://freesound.org/s/573499/
+    * license: Creative Commons 0
+  * 573498__gamedrix974__73.wav
+    * url: https://freesound.org/s/573498/
+    * license: Creative Commons 0
+  * 573497__gamedrix974__74.wav
+    * url: https://freesound.org/s/573497/
+    * license: Creative Commons 0
+  * 573496__gamedrix974__79.wav
+    * url: https://freesound.org/s/573496/
+    * license: Creative Commons 0
+  * 573495__gamedrix974__8.wav
+    * url: https://freesound.org/s/573495/
+    * license: Creative Commons 0
+  * 573494__gamedrix974__77.wav
+    * url: https://freesound.org/s/573494/
+    * license: Creative Commons 0
+  * 573493__gamedrix974__78.wav
+    * url: https://freesound.org/s/573493/
+    * license: Creative Commons 0
+  * 573492__gamedrix974__72.wav
+    * url: https://freesound.org/s/573492/
+    * license: Creative Commons 0
+  * 573491__gamedrix974__71.wav
+    * url: https://freesound.org/s/573491/
+    * license: Creative Commons 0
+  * 573490__gamedrix974__65.wav
+    * url: https://freesound.org/s/573490/
+    * license: Creative Commons 0
+  * 573489__gamedrix974__64.wav
+    * url: https://freesound.org/s/573489/
+    * license: Creative Commons 0
+  * 573488__gamedrix974__67.wav
+    * url: https://freesound.org/s/573488/
+    * license: Creative Commons 0
+  * 573487__gamedrix974__66.wav
+    * url: https://freesound.org/s/573487/
+    * license: Creative Commons 0
+  * 573486__gamedrix974__69.wav
+    * url: https://freesound.org/s/573486/
+    * license: Creative Commons 0
+  * 573485__gamedrix974__68.wav
+    * url: https://freesound.org/s/573485/
+    * license: Creative Commons 0
+  * 573484__gamedrix974__70.wav
+    * url: https://freesound.org/s/573484/
+    * license: Creative Commons 0
+  * 573483__gamedrix974__7.wav
+    * url: https://freesound.org/s/573483/
+    * license: Creative Commons 0
+  * 573482__gamedrix974__17.wav
+    * url: https://freesound.org/s/573482/
+    * license: Creative Commons 0
+  * 573481__gamedrix974__18.wav
+    * url: https://freesound.org/s/573481/
+    * license: Creative Commons 0
+  * 573480__gamedrix974__13.wav
+    * url: https://freesound.org/s/573480/
+    * license: Creative Commons 0
+  * 573479__gamedrix974__14.wav
+    * url: https://freesound.org/s/573479/
+    * license: Creative Commons 0
+  * 573478__gamedrix974__15.wav
+    * url: https://freesound.org/s/573478/
+    * license: Creative Commons 0
+  * 573477__gamedrix974__16.wav
+    * url: https://freesound.org/s/573477/
+    * license: Creative Commons 0
+  * 573476__gamedrix974__1.wav
+    * url: https://freesound.org/s/573476/
+    * license: Creative Commons 0
+  * 573475__gamedrix974__10.wav
+    * url: https://freesound.org/s/573475/
+    * license: Creative Commons 0
+  * 573474__gamedrix974__11.wav
+    * url: https://freesound.org/s/573474/
+    * license: Creative Commons 0
+  * 573473__gamedrix974__12.wav
+    * url: https://freesound.org/s/573473/
+    * license: Creative Commons 0
+  * 573472__gamedrix974__26.wav
+    * url: https://freesound.org/s/573472/
+    * license: Creative Commons 0
+  * 573471__gamedrix974__27.wav
+    * url: https://freesound.org/s/573471/
+    * license: Creative Commons 0
+  * 573470__gamedrix974__22.wav
+    * url: https://freesound.org/s/573470/
+    * license: Creative Commons 0
+  * 573469__gamedrix974__23.wav
+    * url: https://freesound.org/s/573469/
+    * license: Creative Commons 0
+  * 573468__gamedrix974__24.wav
+    * url: https://freesound.org/s/573468/
+    * license: Creative Commons 0
+  * 573467__gamedrix974__25.wav
+    * url: https://freesound.org/s/573467/
+    * license: Creative Commons 0
+  * 573466__gamedrix974__19.wav
+    * url: https://freesound.org/s/573466/
+    * license: Creative Commons 0
+  * 573465__gamedrix974__2.wav
+    * url: https://freesound.org/s/573465/
+    * license: Creative Commons 0
+  * 573464__gamedrix974__20.wav
+    * url: https://freesound.org/s/573464/
+    * license: Creative Commons 0
+  * 573463__gamedrix974__21.wav
+    * url: https://freesound.org/s/573463/
+    * license: Creative Commons 0
+  * 573462__gamedrix974__85.wav
+    * url: https://freesound.org/s/573462/
+    * license: Creative Commons 0
+  * 573461__gamedrix974__84.wav
+    * url: https://freesound.org/s/573461/
+    * license: Creative Commons 0
+  * 573460__gamedrix974__83.wav
+    * url: https://freesound.org/s/573460/
+    * license: Creative Commons 0
+  * 573459__gamedrix974__82.wav
+    * url: https://freesound.org/s/573459/
+    * license: Creative Commons 0
+  * 573458__gamedrix974__9.wav
+    * url: https://freesound.org/s/573458/
+    * license: Creative Commons 0
+  * 573457__gamedrix974__88.wav
+    * url: https://freesound.org/s/573457/
+    * license: Creative Commons 0
+  * 573456__gamedrix974__87.wav
+    * url: https://freesound.org/s/573456/
+    * license: Creative Commons 0
+  * 573455__gamedrix974__86.wav
+    * url: https://freesound.org/s/573455/
+    * license: Creative Commons 0
+  * 573454__gamedrix974__42.wav
+    * url: https://freesound.org/s/573454/
+    * license: Creative Commons 0
+  * 573453__gamedrix974__43.wav
+    * url: https://freesound.org/s/573453/
+    * license: Creative Commons 0
+  * 573452__gamedrix974__40.wav
+    * url: https://freesound.org/s/573452/
+    * license: Creative Commons 0
+  * 573451__gamedrix974__41.wav
+    * url: https://freesound.org/s/573451/
+    * license: Creative Commons 0
+  * 573450__gamedrix974__39.wav
+    * url: https://freesound.org/s/573450/
+    * license: Creative Commons 0
+  * 573449__gamedrix974__4.wav
+    * url: https://freesound.org/s/573449/
+    * license: Creative Commons 0
+  * 573448__gamedrix974__37.wav
+    * url: https://freesound.org/s/573448/
+    * license: Creative Commons 0
+  * 573447__gamedrix974__38.wav
+    * url: https://freesound.org/s/573447/
+    * license: Creative Commons 0
+  * 573446__gamedrix974__44.wav
+    * url: https://freesound.org/s/573446/
+    * license: Creative Commons 0
+  * 573445__gamedrix974__45.wav
+    * url: https://freesound.org/s/573445/
+    * license: Creative Commons 0
+  * 573444__gamedrix974__32.wav
+    * url: https://freesound.org/s/573444/
+    * license: Creative Commons 0
+  * 573443__gamedrix974__31.wav
+    * url: https://freesound.org/s/573443/
+    * license: Creative Commons 0
+  * 573442__gamedrix974__34.wav
+    * url: https://freesound.org/s/573442/
+    * license: Creative Commons 0
+  * 573441__gamedrix974__33.wav
+    * url: https://freesound.org/s/573441/
+    * license: Creative Commons 0
+  * 573440__gamedrix974__29.wav
+    * url: https://freesound.org/s/573440/
+    * license: Creative Commons 0
+  * 573439__gamedrix974__28.wav
+    * url: https://freesound.org/s/573439/
+    * license: Creative Commons 0
+  * 573438__gamedrix974__30.wav
+    * url: https://freesound.org/s/573438/
+    * license: Creative Commons 0
+  * 573437__gamedrix974__3.wav
+    * url: https://freesound.org/s/573437/
+    * license: Creative Commons 0
+  * 573436__gamedrix974__36.wav
+    * url: https://freesound.org/s/573436/
+    * license: Creative Commons 0
+  * 573435__gamedrix974__35.wav
+    * url: https://freesound.org/s/573435/
+    * license: Creative Commons 0
+
+
