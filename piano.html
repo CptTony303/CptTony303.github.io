@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8">
+		<!-- Für Mobilgeräte initialen Zoom abschalten -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Angaben für Suchmaschinen -->
+		<!-- Beschreibung -->
+		<meta name="description" content="Ein Piano als Website.">
+		<!-- Stichwörter -->
+		<meta name="keywords" content="Piano">
+		<title>
+			Piano
+		</title>
+		<link id="css" rel="stylesheet" type="text/css" href="piano.css">
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<!-- async Seite weiterladen während Skript eingelesen wird!! -->
+		<script src="piano.js" async></script>
+	</head>
+	<body>
+		<header class="containers">
+			<h1>
+				Play the Piano!
+			</h1>
+		</header>
+
+		<main>
+			
+			<div id="piano" class="piano">
+			<div data-note="c" class="key white">C</div >
+			<div  data-note ="d" class="key white">D
+				<div  data-note="cis" class="key black">Cis</div >
+			</div >
+			<div  data-note ="e" class="key white">E
+				<div  data-note="dis" class="key black">Dis</div >
+			</div >
+			<div data-note ="f" class="key white">F</div>
+			<div data-note ="g" class="key white">G
+				<div data-note="fis" class="key black">Fis</div>
+			</div>
+			<div data-note ="a" class="key white">A
+				<div data-note="gis" class="key black">Gis</div>
+			</div>
+			<div data-note ="h" class="key white">H
+				<div data-note="b" class="key black">B</div>
+			</div>
+			</div>
+
+			
+			<audio id="c" src="music/tune_c.mp3"></audio>
+   			<audio id="d" src="music/tune_d.mp3"></audio>
+   			<audio id="e" src="music/tune_e.mp3"></audio>
+   			<audio id="f" src="music/tune_f.mp3"></audio>
+   			<audio id="g" src="music/tune_g.mp3"></audio>
+   			<audio id="a" src="music/tune_a.mp3"></audio>
+   			<audio id="h" src="music/tune_h.mp3"></audio>
+   			<audio id="cis" src="music/tune_cis2.mp3"></audio>
+		</main>
+	</body>
+</html>
