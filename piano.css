@@ -2,6 +2,11 @@ html{
 	background-color: darkslategray;
 	position: relative;
 }
+main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .key{
 	text-align: center;
 	vertical-align: bottom;
@@ -15,6 +20,9 @@ html{
 	z-index: 1;
     margin: 0 2px;
 }
+.white.active{
+	background-color: lightgray;
+}
 .black{
 	position: absolute;
     background:black;
@@ -25,12 +33,16 @@ html{
     height: 60%;
 	z-index: 2;
 }
+.black.active{
+	background-color: dimgray;
+}
 header{
 	color: white;
 	text-align: center;
 }
 .piano{
 	position: relative;
+	width: 75%;
 	display: flex;
 	aspect-ratio: 18/7;
     flex-flow: row nowrap;

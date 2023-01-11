@@ -3,7 +3,7 @@ const BLACK=['e','r','z','u','i'];
 let keys=document.querySelectorAll('.key');
 let blackKeys=document.querySelectorAll('.key.black');
 let whiteKeys=document.querySelectorAll('.key.white');
-let piano = document.getElementById("piano");
+let piano = document.getElementById('piano');
 
 // eventlistener for mouse click
 keys.forEach(key =>{
@@ -26,6 +26,8 @@ if(blackKeyIndex>-1) playKey(blackKeys[blackKeyIndex]);
 // this function will play audio
 function playKey(key){
     const audio=document.getElementById(key.dataset.note);
+    key.classList.add('active');
     audio.currentTime=0;
     audio.play();
+    audio.addEventListener('ended',()=>{key.classList.remove('active')});
 }
