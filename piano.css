@@ -1,6 +1,8 @@
-html{
-	background-color: darkslategray;
+html{height: 100%;}
+body{
+	background-color: rgb(104, 78, 13);
 	position: relative;
+	height: 100%;
 }
 main{
 	display: flex;
@@ -39,7 +41,13 @@ main{
 }
 header{
 	color: white;
+	background: black;
 	text-align: center;
+}
+footer{
+	background-color: black;
+	margin-top: 10%;
+	height: auto;
 }
 .piano{
 	--whiteKeys: 14;
