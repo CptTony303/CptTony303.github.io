@@ -20,13 +20,13 @@ var key_nr = style.getPropertyValue('--first');
 var shift = 9;
 //style.setPropertyValue('--whiteKeys', '14');
 for(let i = 0; i < amnt_white; i++){
-    let white = document.createElement('div');
+    let white = document.createElement('button');
     white.className = 'key white';
     white.dataset.note = key_nr;
     piano.appendChild(white);
     key_nr++;
     if(((key_nr-1)+shift)%12!=4 && ((key_nr-1)+shift)%12!=11){
-        let black = document.createElement('div');
+        let black = document.createElement('button');
         black.className = 'key black';
         black.dataset.note = key_nr;
         piano.appendChild(black);
