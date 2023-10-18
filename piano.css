@@ -50,7 +50,7 @@ footer{
 	height: auto;
 }
 .piano{
-	--whiteKeys: 14;
+	--whiteKeys: 28;
 	--first:39;
 	--whiteWidth: calc(100%/var(--whiteKeys));
 	position: relative;
